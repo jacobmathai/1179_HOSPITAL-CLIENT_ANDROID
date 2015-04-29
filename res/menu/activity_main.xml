@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/viewrep" android:title="View Report"></item>
+    <item android:id="@+id/submit" android:title="Submit Report"></item>
+    <item android:id="@+id/changepass" android:title="Change Password"></item>
+</menu>
